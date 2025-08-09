@@ -86,13 +86,3 @@ The layout is responsive, but large decorative images may be hidden or resized o
 ---
 
 ## 📄 License
-
-This project is open-source and free to use for personal and commercial projects.
-
-```
-
----
-
-If you want, I can **make you the `preview.gif`** from your actual HTML so you don’t have to figure out the recording part yourself.  
-Do you want me to make it for you?
-```
